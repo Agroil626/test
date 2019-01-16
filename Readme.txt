@@ -3,7 +3,7 @@
 1) Открыть командную строку в папке проекта:
 ...\testForScaleApps\out\production\classes>
 
-2) Запустить класс Main c аргументами: Пример java Main -a -i out_file.txt input_file.txt
+2) Запустить класс Main c аргументами: Пример java Main input.txt out_file.txt
 
 
 --Порядок аргументов:
